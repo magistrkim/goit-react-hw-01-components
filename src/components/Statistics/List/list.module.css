@@ -1,0 +1,23 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(66, 96, 96);
+}
+
+.item {
+    text-align: center;
+    padding: 20px;
+}
+.title {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+.text {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #bdbab3;
+}
