@@ -1,0 +1,9 @@
+.list {
+    width: 500px;
+    display: grid;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+  }

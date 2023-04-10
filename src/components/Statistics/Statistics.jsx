@@ -16,4 +16,4 @@ export const Statistics = ({ title = 'Upload stats' }) => {
 Statistics.propTypes = {
   title: PropTypes.string,
 };
-// Statistics accept two props TITLE and ARRAY of objects for list
+

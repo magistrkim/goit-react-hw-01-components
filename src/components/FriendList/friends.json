@@ -28,5 +28,23 @@
     "name": "Poly",
     "isOnline": false,
     "id": 1284
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+    "name": "Betty",
+    "isOnline": false,
+    "id": 1850
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
+    "name": "Twitty",
+    "isOnline": true,
+    "id": 1490
+  },
+  {
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
+    "name": "Garfield",
+    "isOnline": true,
+    "id": 1255
   }
 ]
